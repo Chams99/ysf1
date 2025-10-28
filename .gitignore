@@ -22,6 +22,28 @@ dist-ssr
 *.sw?
 .env
 
+# Ignore all image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+*.ico
+*.avif
+*.heic
+*.heif
+
+# Ignore image directories
+public/auction/
+public/biography/
+public/charity/
+public/gallery/
+public/favicons/
+
 # Ignore high-quality gallery images
 public/hq-gallery/
 
