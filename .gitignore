@@ -29,5 +29,4 @@ public/hq-gallery/
 Claus-Bertermann-portfolio/
 
 # Ignore large compressed images
-public/compressed-image*.jpg
 node_modules
