@@ -27,7 +27,6 @@ public/hq-gallery/
 
 # Ignore Claus-Bertermann-portfolio directory (too large)
 Claus-Bertermann-portfolio/
-public/gallery
 
 # Ignore large compressed images
 public/compressed-image*.jpg
